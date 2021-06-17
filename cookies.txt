@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ustatunja.edu.co	TRUE	/	FALSE	1999999999	52092d73d0d413b3aaaf5008c2b68fc6	l6pglimmf8rq77jkbejro7q9h2
+www.ustatunja.edu.co	TRUE	/	FALSE	1999999999	9d245673961a2ac81a80e35f89c9e928	es-ES
+www.ustatunja.edu.co	TRUE	/	FALSE	1999999999	sj_university2_tpl	sj_university2
+
